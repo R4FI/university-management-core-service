@@ -1,0 +1,26 @@
+Wed Aug 23 2023 2:42:20 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Expected double-quoted property name in JSON at position 36
+Wed Aug 23 2023 2:42:25 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.building.create()` invocation:
+
+
+Operation 'createOne' for model 'Building' does not match any query.
+Wed Aug 23 2023 2:43:18 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.building.create()` invocation:
+
+
+Operation 'createOne' for model 'Building' does not match any query.
+Wed Aug 23 2023 2:50:52 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.building.create()` invocation:
+
+
+Operation 'createOne' for model 'Building' does not match any query.
+Wed Aug 23 2023 2:51:53 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.building.create()` invocation:
+
+
+Operation 'createOne' for model 'Building' does not match any query.
+Wed Aug 23 2023 2:59:14 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.building.create()` invocation:
+
+
+Operation 'createOne' for model 'Building' does not match any query.
